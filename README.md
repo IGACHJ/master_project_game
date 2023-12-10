@@ -1,5 +1,5 @@
 <div>
-   # Master Project Game
+   <h2>Master Project Game</h2>
 
    Bienvenue dans le dépôt du projet de master "Master Project Game". Ce projet vise à créer un jeu interactif en utilisant [p5.js](https://p5js.org/), une bibliothèque JavaScript pour la création artistique et interactive.
 
