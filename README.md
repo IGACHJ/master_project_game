@@ -2,6 +2,8 @@
    <h2>Master Project Game</h2>
 
    Bienvenue dans le dépôt du projet de master "Master Project Game". Ce projet vise à créer un jeu interactif en utilisant [p5.js](https://p5js.org/), une bibliothèque JavaScript pour la création artistique et interactive.
+   <h3>Description:</h3>
+   <p> Ce projet explore les concepts de l'intelligence artificielle dans les jeux et met en œuvre des comportements de véhicules autonomes.</p>
 
 </div>
 <div>
@@ -9,9 +11,8 @@
    1. Clônez le dépôt sur votre machine locale :
    git clone https://github.com/IGACHJ/master_project_game.git
 
-   2.Ouvrez le fichier index.html dans votre navigateur pour lancer le jeu.
-   Description:
-   Ce projet explore les concepts de l'intelligence artificielle dans les jeux et met en œuvre des comportements de véhicules autonomes.
+   2.Ouvrez votre IDE puis démarer votre live server pour lancer le jeu.
+   
 </div>
 <h3>Fonctionnalités</h3>
 <div>1)Comportements de poursuite et d'évitement.</div>
