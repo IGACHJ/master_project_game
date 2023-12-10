@@ -31,6 +31,8 @@
 <div><img width="500" alt="image" src="https://github.com/IGACHJ/master_project_game/assets/147995419/2f090f41-9817-4f15-95b8-f55a8c96a513"></div>
 <h3>Vidéo demo du Project : </h3>
 
+<div>https://youtu.be/kQOWt9P5x8U</div>
+
 <h3>Guide de commande :</h3>
 <p>F : changer de formation </p>
 <p>H : envoyer un veseau </p>
