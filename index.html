@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Game</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="libraries/p5.js"></script>
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+    <script src="libraries/p5.gif.js"></script>
+    <script src="./js/obstacle.js"></script>
+    <script src="./js/class/Ennemy.js"></script>
+    <script src="./js/class/Vehicle.js"></script>
+    <script src="layout.js"></script>
+  </head>
+  <body>
+    <select id="functionalityDropdown" onchange="changeFunctionality()">
+      <option>Command Help Guide</option>
+      <option value="F">F : Changer de formation(Snake/Leader)</option>
+      <option value="H">H : More Backup</option>
+      <option value="E">E : Spawn more Enemies</option>
+      <option value="S">S : Shoot</option>
+      <option value="R">R : Rombo Mode</option>
+      <option value="LFC">Left Click : Add Obstacle</option>
+      <option value="D">D : Debug Mode</option>
+    </select>
+  </body>
+</html>
